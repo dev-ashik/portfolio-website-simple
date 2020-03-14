@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    border: 0px;
+}
+.sec-header{
+    font-size: 40px;
+}
+#name{
+    color: #ce0d67;
+    font-weight: 900;
+    font-size: 50px;
+
+}
+
+.half{
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    padding-top: 6%;
+    
+}
+
+ 
+.orange{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 40px;
+    
+    border-radius: 5px;
+    
+}
+
+
+.orange:hover{
+    text-decoration: none;
+    color: white;
+    background-color: #cc3f86;
+    padding: 15px 45px;
+    
+    border-radius: 5px;
+    
+}
+
+
+
+.top-background{
+    background-image: url("images/header-bg.png") ;
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 800px;
+}
+
+.half img{
+    width: 100%;
+    
+}
+#pic{
+    padding-top: 3%;
+}
+
+.midle-background{
+    background-image: url("images/biography-bg.png");
+}
+#work{
+    padding-top: 50px;
+    text-align: center;
+}
+.img-work{
+    width: 25%;
+    float: left;
+    padding-top: 20px;
+    padding-left: 6%;
+}
+
+.img-work:hover{
+    width: 30%;
+    float: left;
+    padding-top: 20px;
+    padding-left: 2.5%;
+}
+
+
+.latest{
+    background-image: url("images/latest-work-bg.png");
+
+}
+
+.footer{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    
+}
+#email{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+
+
+#email:hover{
+    background-color: orange;
+}
+
+.foot{
+
+    font-size: 10px;
+    text-align: center;
+}
