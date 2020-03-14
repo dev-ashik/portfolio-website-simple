@@ -12,14 +12,21 @@ body{
 
 }
 
+#pic-1{
+    padding-top: 0px !important;
+}
+
 .half{
     width: 45%;
     margin-left: 5%;
     float: left;
-    padding-top: 6%;
+    /* padding-top: 6%; */
     
 }
 
+#div-1{
+    padding-top: 150px;
+} 
  
 .orange{
     text-decoration: none;
@@ -50,18 +57,19 @@ body{
     
 }
 section{
-    height: 800px;
+    height: 900px;
 }
 
 .half img{
     width: 100%;
     
 }
-#pic{
-    padding-top: 3%;
+#midile-text{
+    padding-top: 150px;
 }
 
 .midle-background{
+    padding-top: 100px;
     background-image: url("images/biography-bg.png");
 }
 #work{
